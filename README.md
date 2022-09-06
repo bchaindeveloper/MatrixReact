@@ -1,4 +1,4 @@
-# Create a Matrix digital rain react application.
+# Create a Matrix digital rain react application
 
 from code tutorial
 https://www.youtube.com/watch?v=qLbQ0NBa5zM
