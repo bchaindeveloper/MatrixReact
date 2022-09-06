@@ -1,7 +1,10 @@
-Code Tutorial from https://www.youtube.com/watch?v=qLbQ0NBa5zM
+# Create a Matrix digital rain react application.
+
+from code tutorial
+https://www.youtube.com/watch?v=qLbQ0NBa5zM
 https://github.com/M4FFS/matrix-rain-background-react/blob/main/src/MatrixRain.jsx
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
